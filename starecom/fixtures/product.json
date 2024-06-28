@@ -1,0 +1,62 @@
+[
+ {
+  "currency": "INR",
+  "description": "DYNAMIC ISLAND COMES TO IPHONE 15 — Dynamic Island bubbles up alerts and Live Activities — so you don’t miss them while you’re doing something else. You can see who’s calling, track your next ride, check your flight status, and so much more.\nINNOVATIVE DESIGN — iPhone 15 features a durable color-infused glass and aluminum design. It’s splash, water, and dust resistant. The Ceramic Shield front is tougher than any smartphone glass. And the 6.1\" Super Retina XDR display is up to 2x brighter in the sun compared to iPhone 14.",
+  "docstatus": 0,
+  "doctype": "Product",
+  "images": [
+   {
+    "image": "https://m.media-amazon.com/images/I/31Na4uyIEyL._SY445_SX342_QL70_FMwebp_.jpg",
+    "parent": "Iphone 15",
+    "parentfield": "images",
+    "parenttype": "Product"
+   }
+  ],
+  "modified": "2024-06-26 16:52:46.160576",
+  "name": "Iphone 15",
+  "preview_image": "https://m.media-amazon.com/images/I/31Na4uyIEyL._SY445_SX342_QL70_FMwebp_.jpg",
+  "price": 72999.0
+ },
+ {
+  "currency": "INR",
+  "description": "This combo contains 2 Echo Dots (4th Gen) with clock and 1 Wipro 9W LED smart color bulb. Use this bundle to experience the magic of controlling your lights, using just your voice. Control your lights using voice, or control them remotely away from home. Or simply create routine to dim them automatically at night. Only Wi-Fi needed - no additonal hub or setup required!\nEcho Dot with clock (4th Gen) is our most popular smart speaker that comes in a refreshed design and delivers loud, crisp sound with powerful bass\nComes with an LED display that shows time, outdoor temperature or timers. Tap the top to snooze. The light sensor automatically adjusts the display’s brightness, day or night\nGet started with Smart home: It is simple to make your home smart and use voice to control lights. Extend this experience to other appliances like ACs, TVs, geysers using smart plugs (to be purchased separately). Now Alexa can",
+  "docstatus": 0,
+  "doctype": "Product",
+  "images": [
+   {
+    "image": "https://m.media-amazon.com/images/I/81WaomQESKL._SX679_.jpg",
+    "parent": "Amazon Echo Dot (4th Gen, Blue)",
+    "parentfield": "images",
+    "parenttype": "Product"
+   }
+  ],
+  "modified": "2024-06-26 16:53:13.881593",
+  "name": "Amazon Echo Dot (4th Gen, Blue)",
+  "preview_image": "https://m.media-amazon.com/images/I/81WaomQESKL._SX679_.jpg",
+  "price": 11587.0
+ },
+ {
+  "currency": "INR",
+  "description": "5th (Latest) Generation Echo Dot with Alexa-The best sounding Echo Dot yet! With deeper bass and clearer vocals than all previous generations.\nJust ask Alexa to play music from Amazon Music, Spotify, Jio Saavn, Apple Music.(some apps may require subscription)\nVoice control Alexa compatible smart appliances like lights, ACs, TVs, geysers. Extend the experience to non-smart appliances using smart plugs (to be purchased separately)\nAutomatically turn on light when you enter the room or switch on the AC when it gets hot using in-built motion detection and temperature sensor. Set these experiences using routines feature in Alexa app.",
+  "docstatus": 0,
+  "doctype": "Product",
+  "images": [
+   {
+    "image": "https://m.media-amazon.com/images/I/81lGxS2ZisL._SX679_.jpg",
+    "parent": "Amazon echo dot",
+    "parentfield": "images",
+    "parenttype": "Product"
+   },
+   {
+    "image": "https://m.media-amazon.com/images/I/61lPcAKY+vL._SX679_.jpg",
+    "parent": "Amazon echo dot",
+    "parentfield": "images",
+    "parenttype": "Product"
+   }
+  ],
+  "modified": "2024-06-26 16:53:33.709951",
+  "name": "Amazon echo dot",
+  "preview_image": "https://m.media-amazon.com/images/I/81lGxS2ZisL._SX679_.jpg",
+  "price": 299.0
+ }
+]
