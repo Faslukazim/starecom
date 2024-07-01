@@ -219,7 +219,7 @@ website_route_rules = [
         "from_route": "/frontend-starecom/<path:app_path>",
         "to_route": "frontend-starecom",
     },
-    {"from_route": "/frontend/<path:app_path>", "to_route": "frontend"},
-    {"from_route": "/frontend/<path:app_path>", "to_route": "frontend"},
-    {"from_route": "/frontend/<path:app_path>", "to_route": "frontend"},
+    # {"from_route": "/frontend/<path:app_path>", "to_route": "frontend"},
+    # {"from_route": "/frontend/<path:app_path>", "to_route": "frontend"},
+    # {"from_route": "/frontend/<path:app_path>", "to_route": "frontend"},
 ]
