@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "cd frontend-starecom && yarn install",
     "dev": "cd frontend-starecom && yarn dev",
-    "build": "cd frontend-starecom && yarn build"
+    "build": "cd frontend-starecom && yarn build",
+    "production": "webpack --mode production"
   },
   "keywords": [],
   "author": "",

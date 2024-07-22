@@ -31,6 +31,11 @@ const routes = [
       requiresLogin: true,
     },
   },
+  {
+    name: 'RazorpayPage',
+    path: '/razorpay',
+    component: () => import('@/pages/Razorpay.vue'),
+  },
 ]
 
 let router = createRouter({

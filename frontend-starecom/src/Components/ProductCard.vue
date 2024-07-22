@@ -7,7 +7,7 @@
       },
     }"
     href="#"
-    class="shadow-md rounded-sm p-8 space-y-2 flex justify-between flex-col"
+    class="shadow-md rounded-sm p-8 space-y-2 flex justify-between flex-col hover:scale-105 transition-all"
   >
     <img class="h-36 w-44" :src="product.preview_image" alt="" />
     <p class="text-base text-gray-800 font-medium mt-2">

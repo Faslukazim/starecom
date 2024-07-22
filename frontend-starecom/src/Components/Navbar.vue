@@ -1,10 +1,33 @@
 <template>
   <div>
-    <nav class="fixed top-0 bg-white-overlay-900 z-50 p-4 items-center w-full">
+    <nav
+      class="fixed top-0 bg-white-overlay-900 z-50 p-4 items-center w-full shadow-sm"
+    >
       <div class="flex justify-between">
         <router-link :to="{ name: 'ProductsListPage' }">
-          <h1 class="text-2xl font-bold text-gray-800">Store</h1>
+          <h1 class="text-2xl font-bold text-green-500">Store</h1>
         </router-link>
+        <a
+          href=""
+          class="text-sm font-medium font-sans text-gray-800 hover:text-blue-400"
+          >Home</a
+        >
+        <a
+          href=""
+          class="text-sm font-medium font-sans text-gray-800 hover:text-blue-400"
+          >Products</a
+        >
+        <a
+          href=""
+          class="text-sm font-medium font-sans text-gray-800 hover:text-blue-400"
+          >Orders</a
+        >
+        <a
+          href=""
+          class="text-sm font-medium font-sans text-gray-800 hover:text-blue-400"
+          >Account & List</a
+        >
+
         <button @click="cartDialogShown = true" class="flex">
           <FeatherIcon name="shopping-cart" class="h-6" />
           <Badge variant="solid">{{ cart.items.length }}</Badge>
@@ -38,7 +61,7 @@
           <FormControl v-model="item.qty" type="number" placeholder="qty" />
           <Button
             @click="removeProductFromCart(index)"
-            cariant="outline"
+            variant="outline"
             theme="red"
             class="mt-2"
             >Remove</Button
