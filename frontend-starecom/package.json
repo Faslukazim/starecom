@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/assets/starecom/frontend-starecom/ && yarn copy-html-entry",
+    "build": "vite build --base=/assets/starecom/frontend-starecom/ && npm run copy-html-entry",
     "preview": "vite preview",
     "copy-html-entry": "cp ../starecom/public/frontend-starecom/index.html ../starecom/www/frontend-starecom.html"
   },

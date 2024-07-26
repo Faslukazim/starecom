@@ -15,4 +15,8 @@ export default defineConfig({
   optimizeDeps: {
     include: ['frappe-ui > feather-icons', 'showdown', 'engine.io-client'],
   },
+  build: {
+    outDir: '../starecom/public/frontend-starecom',
+    emptyOutDir: true,
+  },
 })
